@@ -8,6 +8,9 @@ Hint: You can use the className attribute for highlighting*/
   /* Additional styling for better user experience */
   .selected:hover {
     cursor: pointer;
+    background-color:#3498db;
+    color:#f7f7f7;
+    border-color: #1f77c5;
   }
   
   
